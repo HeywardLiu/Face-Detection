@@ -1,0 +1,6 @@
+__pycache__/
+casecade/
+database/
+dataSet/
+trainingData.yml
+*.db
